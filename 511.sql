@@ -4,4 +4,4 @@ select
 from
     Activity
 group by
-    player_id
+    player_id;
