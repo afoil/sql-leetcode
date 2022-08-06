@@ -5,4 +5,4 @@ from
 group by
     email
 having
-    count(email) > 1
+    count(email) > 1;

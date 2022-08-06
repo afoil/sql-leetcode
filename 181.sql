@@ -5,4 +5,4 @@ from
     Employee as M
 where
     E.ManagerId = M.Id
-    and E.salary > M.salary
+    and E.salary > M.salary;
